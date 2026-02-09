@@ -122,3 +122,13 @@ footer a:hover{
     background-color: rgb(166, 20, 173);
     transform: scale(1.2);
 }
+.pfooter{
+    width: 200px;
+}
+footer p{
+    color: rgb(255, 231, 247);
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
